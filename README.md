@@ -5,3 +5,5 @@ The file DoubleBoxMassless is the notebook containing the details of Chapter 2 o
 and does not require any additional packages.
 
 The file FIREReductionRules.mx is a Mathematica format file, which contains the reductions of the Feynman integrals to the Master interals. They were computed with FIRE6 (see main text.)
+
+All files must be in the same directory, otherwise the reduction rules cannot be loaded.
